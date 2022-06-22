@@ -65,5 +65,17 @@
     "storybook-dark-mode": "^1.0.9",
     "ts-jest": "^27.1.4",
     "typescript": "4.6.3"
-  }
+  },
+  "description": "Get started with Mantine + Next with just a few button clicks. Click `Use this template` button at the header of repository or [follow this link](https://github.com/mantinedev/mantine-next-template/generate) and create new repository with `@mantine` packages. Note that you have to be logged in to GitHub to generate template.",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hien-Trinh/mantine-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hien-Trinh/mantine-template/issues"
+  },
+  "homepage": "https://github.com/Hien-Trinh/mantine-template#readme"
 }
